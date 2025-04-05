@@ -1,3 +1,4 @@
++ 03/25 WAMP Server/Wordpress2(настройка второго сайта)
 + 03/25 Плагин Фотоальбом Слайдшоу для Wordpress.
 + 02/25 Портал для сотрудников компании на CMS WordPress(WAMP Server)
 + 02/25 WAMP Server
