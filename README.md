@@ -1,3 +1,4 @@
++ =04/25 Скрипт на python Snapshot-file-structure
 + =04/25 Скрипт на python Glue-files(Склейка файлов)
 + =04/25 Скрипт на python Create-folders(Создание на диске структуры папок и файлов)
 + =04/25 Портал обучения для организаций на WordPress
