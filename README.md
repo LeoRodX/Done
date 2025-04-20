@@ -4,7 +4,7 @@
 + =04/25 Портал обучения для организаций на WordPress
 + =04/25 База знаний для организации на WordPress 
 + 04/25 Однофайловые браузерные калькуляторы Single-file-browser-calculators
-+ 04/25 WAMP Server/Wordpress2(настройка второго сайта)
++ 04/25 WAMP Server/Wordpress2(настройка второго сайта) WampServer-manuals
 + 03/25 Однофайловые браузерные игры Single-file-browser-games
 + 03/25 Плагин Фотоальбом Слайдшоу для Wordpress.
 + =03/25 Скрипты python для манипуляции файлами xlsx(pandas, openpylx)
