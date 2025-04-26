@@ -1,4 +1,4 @@
-+ 04/25 Создал образцы стилей интерфейса Style-design-html
++ 04/25 Образцы стилей веб-интерфейса Style-design-html
 + =04/25 Скрипт на python Snapshot-file-structure
 + =04/25 Скрипт на python Glue-files(Склейка файлов)
 + =04/25 Скрипт на python Create-folders(Создание на диске структуры папок и файлов)
