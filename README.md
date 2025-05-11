@@ -1,3 +1,4 @@
++ 05/25 Веб-сервис AI-ассистент - AI-assistant_web-service
 + 05/25 Анализатор CSS-классов в HTML-файлах - Style-collector
 + 04/25 Python-скрипт для поиска строки в файлах папки и всех вложенных папках - String-search-script-in-folder-files
 + 04/25 Образцы стилей веб-интерфейса - Style-design-html
