@@ -1,4 +1,4 @@
-+ 05/25 Скрипт для поиска дубликатов - Duplicate-finder 
++ 05/25 Скрипт для поиска дубликатов в большщих файлах DBF и XLSX - Duplicate-finder 
 + 05/25 Веб-сервис интерактивное облако тегов (ссылок) - Navigator-links_Orbital
 + 05/25 Веб-сервис AI-ассистент - AI-assistant_web-service
 + 05/25 Анализатор CSS-классов в HTML-файлах - Style-collector
